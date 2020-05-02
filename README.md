@@ -1,6 +1,6 @@
 # Burger Builder - Najathi
 
-#### first create ,env file and configure them..
+#### first create .env file and configure them..
 ```
 REACT_APP_FIREBASE_REALTIME_DB=url
 REACT_APP_FIREBASE_API=api_key
